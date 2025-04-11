@@ -25,3 +25,4 @@ This project demonstrates how to build a **CI/CD pipeline** for a Python Flask a
    - Removes any existing container
    - Runs a new container exposing the Flask app on port 5001
 4. App accessible at:
+http://54.177.92.61:5001
